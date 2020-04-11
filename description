@@ -1,0 +1,7 @@
+the question is to make a php form to fetch the data from the sql.
+so to make a connection we have to use mysqli.
+first we will create the table where columns are id, first_name, last_name and email.
+then we will enter the details as shown in the question.
+we are entering the multiple code so we have to use sql = "for the first code;"; and sql .="for the next code"; mysqli_multi_query to execute them
+and this will end first <?php   ?>
+then in next <?php  ?> we will enter the sql querry for the fetching of the data by descending order of first_name.
