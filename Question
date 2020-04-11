@@ -1,0 +1,6 @@
+Q.-> Create a php form with columns id, first_name, last_name,email. 
+Insert following data in the database and fetch all the data in descending order of first_name.
+id    first_name    last_name   email
+1     arun          sharma      a@gmail.com
+2     bharat        sharma      b@gamil.com
+3     nitin         gupta       n@gamil.com
