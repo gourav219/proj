@@ -3,4 +3,4 @@ Insert following data in the database and fetch all the data in descending order
 id    first_name    last_name   email
 1     arun          sharma      a@gmail.com
 2     bharat        sharma      b@gamil.com
-3     nitin         gupta       n@gamil.com
+3     nitin         joshi       n@gamil.com
